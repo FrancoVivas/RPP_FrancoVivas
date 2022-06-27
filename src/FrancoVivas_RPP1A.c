@@ -5,13 +5,7 @@
 #define TAM 5
 
 /***********************************/
-struct
-{
-    int id;
-    char procesador[20];
-    char marca[20];
-    float precio;
-} typedef eNotebook;
+
 
 
 
